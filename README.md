@@ -29,4 +29,4 @@ Bu proje bir restoranın menüsünü gösteren basit bir web sayfasıdır.
 
 <h2>Ekran Görüntüsü</h2>
 
-![]()
+![](./images/PortatifMenuG.gif)
